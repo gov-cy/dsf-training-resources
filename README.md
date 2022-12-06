@@ -16,19 +16,34 @@ https://www.w3schools.com/bootstrap5/index.php
 
 ### Markdown
 
+https://www.markdowntutorial.com/
+
 ### Design Systems
 
 ### Testing
 
+This is a good article about the different types of testing.
+https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing
+
 ### Git Version Control Software and the Github Platform (they're not the same thing)
 
+#### Git
+
 To find out what version control is watch this video:
-https://www.youtube.com/watch?v=2ReR1YJrNOM&list=RDLVcaHOmK9kFfI
+https://www.youtube.com/watch?v=2ReR1YJrNOM
+
+https://www.w3schools.com/git/git_exercises.asp
+
+#### Github
 
 Github is one of many platforms that provide tools _around_ a project that uses Git. There is also Gitlab, BitBucket, Azure repos, AWS CodeCommit etc etc.
 
-### 
 
 ### Trello
 
+https://www.youtube.com/watch?v=geRKHFzTxNY
+https://thefitcareerist.com/uses-trello/
+
 ### Multi-disciplinary agile teams
+
+https://www.youtube.com/watch?v=502ILHjX9EE
