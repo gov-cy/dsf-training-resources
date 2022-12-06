@@ -20,6 +20,8 @@ https://www.markdowntutorial.com/
 
 ### Design Systems
 
+https://www.youtube.com/watch?v=mq984Mc9UVA
+
 ### Testing
 
 This is a good article about the different types of testing.
