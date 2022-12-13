@@ -40,6 +40,9 @@ https://www.w3schools.com/git/git_exercises.asp
 
 Github is one of many platforms that provide tools _around_ a project that uses Git. There is also Gitlab, BitBucket, Azure repos, AWS CodeCommit etc etc.
 
+#### Github Actions
+
+https://docs.github.com/en/actions/quickstart
 
 ### Trello
 
